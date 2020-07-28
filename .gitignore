@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Svelte output
-public
+public/build
