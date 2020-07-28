@@ -1,0 +1,6 @@
+tasks:
+  - init: yarn install
+    command: yarn dev
+vscode:
+  extensions:
+    - svelte.svelte-vscode@101.5.0:4mJtovjYzIoyJuHgWH6egQ==
