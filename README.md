@@ -1,6 +1,6 @@
 A svelte typescript template ready to develop with gitpod.
 
-[Launch in Gitpod](https://gitpod.io/#https://github.com/brasilikum/svelte-typescript-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/brasilikum/svelte-typescript-gitpod)
 
 
 ---
